@@ -1,7 +1,7 @@
 ## A Systematic Mixed Methodological Review of the Quantitative and Qualitative Methods Used in Mixed-Methods Published Research and IES Funded K – 12 Educational Statistical Analysis
 ### MM-SR Statistical Analyses
 #### Authors Karen Alexander and Jay Jeffries
-<small>***University of Nebraska-Lincoln***</small>
+<small> ***University of Nebraska-Lincoln*** </small>
 
 ### Overview
 |         The purpose of this repository is to be transparent in showing the statistical tests and results for our exploration of the research methods and designs used between IES and non-IES funded mixed methods educational research. The data used derived from qualitative coding of articles published by journals and proposals advertised by IES via their website between 2014-2019. To better understand the screening of the sample of articles used, check out the [PRISMA Chart](https://github.com/jjeffries13/MM-SR/blob/main/PRISMA%20Chart%20Appendix%20A.pdf) document. Coding of relevant articles focused on the methodology and study designs rather than specific outcomes. Using MaxQDA, articles and IES studies were analyzed by the two authors who independently coded half of the articles and the IES proposals. The [code list](https://github.com/jjeffries13/MM-SR/blob/main/IES%20Grant%20Research%20Code%20System.docx) utilized was divided into five components: research method, IES research purpose, quantitative method, qualitative method, and mixed methods integration type. The codes for the quantitative and qualitative methods were organized using Onwuegbuzie (2016) a priori coding scheme which places method complexity along continuums. Analyses regarded the differences betweeen IES and non-IES funded studies in terms of reporting of methods and codes across these continuums. 
