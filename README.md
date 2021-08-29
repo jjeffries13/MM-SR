@@ -1,5 +1,6 @@
 ## A Systematic Mixed Methodological Review of the Quantitative and Qualitative Methods Used in Mixed-Methods Published Research and IES Funded K – 12 Educational Statistical Analysis
-### MM-SR Statistical Analyses
+### *The Society for Research on Educational Effectiveness* In-The-Pipeline Research Methods Presentation
+#### MM-SR Statistical Analyses
 #### Authors Karen Alexander and Jay Jeffries 
 <sub> ***University of Nebraska-Lincoln*** </sub>
 
