@@ -1,6 +1,6 @@
 ## A Systematic Mixed Methodological Review of the Quantitative and Qualitative Methods Used in Mixed-Methods Published Research and IES Funded K – 12 Educational Statistical Analysis
 ### *The Society for Research on Educational Effectiveness* (SREE) In-The-Pipeline Research Methods Presentation
-#### Authors Karen Alexander and Jay Jeffries <img align="right" width="100" height="100" src="https://lh3.googleusercontent.com/Okl1tKSZQLZQuE3s8zHoV2c-V9ICLIc330oGb5nJdP8sueB_jPZISj5V4fvhMlkXEciUBQ=s85">
+#### Authors Karen Alexander and Jay Jeffries <img align="right" width="100" height="100" src="https://ibb.co/WvbcqQf">
 <sub> ***University of Nebraska-Lincoln*** </sub> 
 
 ### Overview
