@@ -26,6 +26,41 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coding of relevant articles and IES studies focused on the methodology and study designs rather than specific outcomes. Using MaxQDA software (VERBI Software, 2019), articles and IES studies that passed the screening stage were analyzed by the two authors. Authors independently coded half of the articles and the IES proposals. Coding discrepancies were resolved to arrive at 100% agreement. The code list was divided into five components: research method, IES-related purpose, quantitative method, qualitative method, and MM integration. The codes for the quantitative and qualitative methods were organized using an a priori coding scheme (Onwuegbuzie, 2016) which places method complexity along continuums. The coding enabled a concomitant synthesis of study methodology across the sample. The integrative nature of this investigation was necessary to identify the intermeshed relationships of separate analytic strands (Boeije, 2013) and complementary data collection and analyses (Pluye, 2014) for understanding the rigor of these education MM studies and funded research.
 
 ### Preliminary Findings:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial findings illustrate disparities between MM educational research funded by IES and those that were not in regards to reporting qualitative analysis methods. Among the journal articles in the sample of studies, 91.41% (N = 234 articles) reported a process of qualitative coding or analysis whereas the research funded by IES only 13.22% (N = 39 documents) disclosed a type of qualitative analysis. A statistically significant difference exists between MM educational journal articles and IES funded studies in terms of reporting a form of qualitative data analysis ($\chi^{2}$(1)= 348.68,p < .05) where journal articles informed the reader which qualitative method they will use more frequently. This elicits the degree in which IES mixed methodology is lagging with respect to effectively communicating a qualitative research strand, which is key when justifying a MM research design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial findings illustrate disparities between MM educational research funded by IES and those that were not in regards to reporting qualitative analysis methods. Among the journal articles in the sample of studies, 91.41% (N = 234 articles) reported a process of qualitative coding or analysis whereas the research funded by IES only 13.22% (N = 39 documents) disclosed a type of qualitative analysis. A statistically significant difference exists between MM educational journal articles and IES funded studies in terms of reporting a form of qualitative data analysis ( $\chi^{2}$ (1)= 348.68,p < .05) where journal articles informed the reader which qualitative method they will use more frequently. This elicits the degree in which IES mixed methodology is lagging with respect to effectively communicating a qualitative research strand, which is key when justifying a MM research design.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All proposals displayed by IES offer insight into the quantitative research methods. This divide between the description of quantitative and qualitative approaches indicates a lacking rigor in MM IES research. While it has been a goal for IES to better guide researchers towards more sufficient MM quality, it is apparent that the research they support concentrates its efforts and resources into quantitative evidence. Because of this, the austerity of qualitative data analysis methods trails in expectation. These preliminary findings will advance into future comparisons of complexity levels through use of Onwuegbuzie’s (2016) paradigm to further identify gaps between MM educational research offered by journal articles and IES.
+
+### References
+Alise, M. A., & Teddlie, C. (2010). A continuation of the paradigm wars? Prevalence rates of methodological approaches across the social/behavioral sciences. Journal of Mixed Methods Research, 4, 103– 126. https://doi:10.1177/1558689809360805
+
+Bash, K. L., Howell Smith, M. C., & Trantham, P. S. (2020). A systematic methodological review of hierarchical linear modeling in mixed methods research. Journal of Mixed Methods Research, 15(2), 190-211. https://doi:10.1177/1558689820937882
+
+Boeije, H., Slagt, M., & Van Wesel, F. (2013). The contribution of mixed methods research to the field of childhood trauma. Journal of Mixed Methods Research, 7(4), 347-369. https://doi:10.1177/1558689813482756
+
+Brown, K. M., Elliott, S. J., Leatherdale, S. T., & Robertson-Wilson, J. (2015). Searching for rigour in the reporting of mixed methods population health research: A methodological review. Health Education Research, 30(6), 811-839. https://doi:10.1093/her/cyv046
+
+Coyle, C. E., Schulman-Green, D., Feder, S., Toraman, S., Prust, M. L., Plano Clark, V. L., & Curry, L. (2016). Federal funding for mixed methods research in the Health Sciences in the United STATES: Recent trends. Journal of Mixed Methods Research, 12(3), 305-324. https://doi:10.1177/1558689816662578
+
+Guetterman, T. C., Babchuk, W. A., Howell Smith, M. C., Stevens, J. (2019). Contemporary approaches to mixed methods-grounded theory research (MM-GT): A field-based analysis. Journal of Mixed Methods Research, 13, 179-195. https://doi:10.1177/1558689817710877
+
+Hart, L. C., Smith, S. Z., Swars, S. L., & Smith, M. E. (2009). An examination of research methods in mathematics education. Journal of Mixed Methods Research, 30, 26–41. https://doi:10.1177/1558689808325771
+
+Institute of Education Sciences (IES), U.S. Department of Education (USDE), & National Science Foundation (NSF). (2013). Common Guidelines for Education Research and Development. https://ies.ed.gov/pdf/CommonGuidelines.pdf
+
+Institute of Education Sciences (IES), U.S. Department of Education (USDE), & National Science Foundation (NSF). (2020). Education Grant Research Program. https://ies.ed.gov/funding/pdf/2021_84305A.pdf
+
+Moher, D., Liberati, A., Tetzlaff, J., & Altman, D. G. (2009). Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Medicine, 6(7), e1000097. https://doi.org/10.1371/journal.pmed.1000097
+
+Onwuegbuzie, A. J. (2016). A Call for Conducting Multivariate Mixed Analysis. Journal of Educational Issues, 2(2), 1-30. https://doi:10.5296/jei.v2i2.9316
+
+Plano Clark, V. L. (2010). The adoption and practice of mixed METHODS: U.S. trends in federally Funded Health-Related Research. Qualitative Inquiry, 16(6), 428-440. https://doi:10.1177/1077800410364609
+
+Plano Clark, V. L., & Ivankova, N. V. (2016). Mixed Methods Research: A Guide to the Field. SAGE Publications, Inc.
+
+Pluye, P., & Hong, Q. N. (2014). Combining the power of stories and the power of numbers: Mixed methods research and mixed studies reviews. Annual Review of Public Health, 35(1), 29-45. https://doi:10.1146/annurev-publhealth-032013-182440
+
+Powell, H., Mihalas, S., Onwuegbuzie, A. J., Suldo, S., & Daley, C. E. (2008). Mixed methods research in school psychology: A mixed methods investigation of trends in the literature. Psychology in the Schools, 45(4), 291-309. https://doi:10.1002/pits.20296
+
+Ross, A., & Onwuegbuzie, A. J. (2014). Complexity of quantitative analyses used in mixed research articles published in a flagship mathematics education journal. International Journal of Multiple Research Approaches, 8(1), 3997-4030. https://doi:10.5172/mra.2014.3997
+
+VERBI Software. (2019). MAXQDA 2020 [computer software]. Berlin, Germany: VERBI Software. Available from maxqda.com.
