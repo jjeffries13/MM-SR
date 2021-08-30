@@ -1,0 +1,171 @@
+---
+title: "MM-SR Statistical Analysis"
+author: "Authors Karen Alexander and Jay Jeffries"
+date: "8/29/2021"
+output: pdf_document
+mainfont: Times New Roman
+latex_engine: xelatex
+fontsize: 11pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction To This Document
+|           Below you will find multiple chi-square, two-proportion tests to statistically analyze differences between mixed methods, educational, IES funded studies and non-IES funded published journal articles. This document is divided into two sections: one that analyzes qualitative analyses information and one that analyzes quantitative analyses information from our documents. Both sections involve a significance table at the end of each section to condense findings into one easily readable space. The proportion test we used derived from the **{stats}** package. 
+
+* prop.test() is a function that tests the proportions of "successes" of two categorical groups
+* at minimum, it requires two things within function: x and n
+* x vector is the observed values; c() indicates a list of values
+* n vector is sample size of both groups; c() indicates a list of values
+* the first values from x = c(x, y) corresponds to the first value of n = c(z, w), so that a count of x is associated with a sample size of z, and a count of y is associated with a sample size of w.
+* a two-sided alternative hypothesis was used, as we did not commit to a prior hypothesis.
+* conf.level = 0.95 indicates that a 95% confidence level was set for the confidence intervals
+* correct = FALSE was used, as the Yates continuinity correction was not implemented
+* more info and documentation about prop.test() and its components can be found via "?prop.test" without the quotation marks
+
+# Qualitative Data Analysis Method
+### Journal Articles vs. IES Funded Study Reporting
+
+Was there a significant difference in the frequency that a qualitative data analysis method was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(234, 39), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 1 vs. IES Funded Study Level 1
+
+Was there a significant difference in the frequency that a qualitative data analysis method of complexity level 1 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(54, 4), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 2 vs. IES Funded Study Level 2
+
+Was there a significant difference in the frequency that a qualitative data analysis method of complexity level 2 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(131, 25), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 3 vs. IES Funded Study Level 3
+
+Was there a significant difference in the frequency that a qualitative data analysis method of complexity level 3 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(162, 15), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+## Findings
+### Figure 1. Significance Table
+
+Chi-Square Two-Proportion Test | Results
+------------- | -------------
+Reporting of a Qualitative Analysis Method | Statistically significant difference ($\chi^{2}$ = 335.17, *p* < 0.05) where journal articles reported the use of a qualitative data analysis method significantly more than IES funded studies.
+Utilized Qualitative Analysis Method of Complexity Level 1 | Statistically significant difference ($\chi^{2}$ = 56.69, *p* < 0.05) where journal articles reported using a qualitative data analysis method of complexity level 1 significantly more than IES funded studies.
+Utilized Qualitative Analysis Method of Complexity Level 2 | Statistically significant difference ($\chi^{2}$ = 123.11, *p* < 0.05) where journal articles reported using a qualitative data analysis method of complexity level 2 significantly more than IES funded studies.
+Utilized Qualitative Analysis Method of Complexity Level 3 | Statistically significant difference ($\chi^{2}$= 212.89, *p* < 0.05) where journal articles reported using a qualitative data analysis method of complexity level 3 significantly more than IES funded studies.
+
+# Quantitative Data Analysis Method
+
+### Journal Articles vs. IES Funded Study Reporting
+
+Was there a significant difference in the frequency that a quantitative data analysis method was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(256, 295), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 1 vs. IES Funded Study Level 1
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 1 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(154, 59), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 2 vs. IES Funded Study Level 2
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 2 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(172, 56), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 3 vs. IES Funded Study Level 3
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 3 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(56, 93), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 4 vs. IES Funded Study Level 4
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 4 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(4, 6), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 5 vs. IES Funded Study Level 5
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 5 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(61, 48), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 6 vs. IES Funded Study Level 6
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 6 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(17, 66), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 7 vs. IES Funded Study Level 7
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 7 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(11, 199), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+### Journal Articles Level 8 vs. IES Funded Study Level 8
+
+Was there a significant difference in the frequency that a quantitative data analysis method of complexity level 8 was reported when comparing these two groups?
+
+```{r}
+prop.test(x = c(0, 30), n = c(256, 295), alternative = "two.sided", 
+          conf.level = 0.95, correct = FALSE) 
+```
+
+## Findings
+### Figure 2. Significance Table
+
+Chi-Square Two-Proportion Test | Results
+------------- | -------------
+Reporting of a Quantitative Analysis Method | No significant difference ($\chi^{2}$ = 0) where the proportion of IES funded studies reported using a quantitative data analysis method is equal to the proportion of journal articles that reported a quantitative data analysis.
+Utilized Quantitative Analysis Method of Complexity Level 1 | Statistically significant difference ($\chi^{2}$ = 93.20, *p* < 0.05) where the number of journal articles reported using a quantitative data analysis method of complexity level 1 was significantly more than IES funded studies.
+Utilized Quantitative Analysis Method of Complexity Level 2 | Statistically significant difference ($\chi^{2}$ = 131.30, *p* < 0.05) where the number of journal articles reported using a quantitative data analysis method of complexity level 2 was significantly more than IES funded studies.
+Utilized Quantitative Analysis Method of Complexity Level 3 | Statistically significant difference ($\chi^{2}$ = 6.47, *p* < 0.05) where the number of IES funded studies reported using a quantitative data analysis method of complexity level 3 was significantly more than journal articles. 
+Utilized Quantitative Analysis Method of Complexity Level 4 | Non-significant statistical difference ($\chi^{2}$ = 0.17, *p* > 0.05) where the number of IES funded studies that used a quantitative data analysis method of complexity level 4 did not significantly differ from journal articles. 
+Utilized Quantitative Analysis Method of Complexity Level 5 | Statistically significant difference ($\chi^{2}$ = 4.93, *p* < 0.05) where the number of journal articles reported using a quantitative data analysis method of complexity level 5 was significantly more than journal articles. 
+Utilized Quantitative Analysis Method of Complexity Level 6 | Statistically significant difference ($\chi^{2}$ = 26.51, *p* < 0.05) where the number of IES funded studies reported using a quantitative data analysis method of complexity level 6 was significantly more than journal articles. 
+Utilized Quantitative Analysis Method of Complexity Level 7 | Statistically significant difference ($\chi^{2}$ = 231.81, *p* < 0.05) where the number of IES funded studies reported using a quantitative data analysis method of complexity level 7 was significantly more than journal articles. 
+Utilized Quantitative Analysis Method of Complexity Level 8 | Statistically significant difference ($\chi^{2}$ = 27.53, *p* < 0.05) where the number of IES funded studies reported using a quantitative data analysis method of complexity level 8 was significantly more than journal articles. 
