@@ -34,8 +34,7 @@
 |       Complexity Level 1      |   .211  |   .014   |  χ2(1) = 56.69 | p < .05 |
 |       Complexity Level 2      |   .512  |   .085   | χ2(1) = 123.11 | p < .05 |
 |       Complexity Level 3      |   .633  |   .051   | χ2(1) = 212.89 | p < .05 |
-
-<sub>PUB = published journal article, IES = Institute of Education Sciences study </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>PUB = published journal article, IES = Institute of Education Sciences study </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All mixed methods educational journal articles and IES funded studies reported at least one method of [quantitative analysis](https://github.com/jjeffries13/MM-SR/blob/main/QuanMethodsCharts.pdf). The studies funded by IES utilized multivariate analyses (χ2(1)= 6.47, p < .05), analyses of time and/or space (χ2(1)= 26.51, p < .05), multi-directional or multilevel models (χ2(1)= 231.81, p < .05), and multidirectional and multilevel modeling (χ2(1)= 27.53, p < .05) significantly more than non-IES funded journal articles. Journal articles implemented descriptive analyses (χ2(1)= 93.20, p < .05), univariate analyses (χ2(1)= 131.30, p < .05), and measurement techniques (χ2(1)= 4.93, p < .05) significantly more than IES funded studies. The proportion of documents that used complexity level 4 , analysis of group membership, was not significantly different among IES and non-IES funded research.
 
@@ -50,8 +49,7 @@
 |       Complexity Level 6      |   .066  |   .224   |  χ2(1) = 26.514 |  p < .05 |
 |       Complexity Level 7      |   .043  |   .675   | χ2(1) = 231.810 |  p < .05 |
 |       Complexity Level 8      |   .000  |   .102   |  χ2(1) = 27.533 |  p < .05 |
-
-<sub>PUB = published journal article, IES = Institute of Education Sciences study </sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>PUB = published journal article, IES = Institute of Education Sciences study </sub>  
   
 ### Discussion
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The divide between the description of quantitative and qualitative approaches indicates a lacking rigor in MM IES research. While it has been a goal for IES to better guide researchers towards more sufficient MM quality, it is apparent that the research they support concentrates its efforts and resources into quantitative evidence. Because of this, the austerity of qualitative data analysis methods trails in expectation. These preliminary findings will advance into future comparisons of IES research purpose, research method, and mixed methods designs to identify other characteristics and distinctions between MM educational research offered by journal articles and IES.
