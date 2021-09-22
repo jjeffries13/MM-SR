@@ -28,18 +28,18 @@
 ### Preliminary Findings:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initial findings illustrate disparities between MM educational research funded by IES and those that were not in regards to reporting qualitative analysis methods. Among the journal articles in the sample of studies, 91.41% (*N* = 234 articles) reported a process of qualitative coding or analysis whereas the research funded by IES only 13.22% (*N* = 39 documents) disclosed a type of qualitative analysis. A [statistically significant difference](https://github.com/jjeffries13/MM-SR/blob/main/MM-SR_Analysis.pdf) exists between MM educational journal articles and IES funded studies in terms of reporting a form of qualitative data analysis (&#967;<sup>2</sup>(1)= 335.17, *p* < .05) where journal articles informed the reader which qualitative method they will use more frequently. This elicits the degree in which IES mixed methodology is lagging with respect to effectively communicating a qualitative research strand, which is key when justifying a MM research design. Additional visual comparisons of qualitative analysis complexity levels can be found [here](https://github.com/jjeffries13/MM-SR/blob/main/QualMethodCharts.pdf). 
 
-|           Comparison          | \textit{p}_{1} (PUB) | \textit{p}_{2} (IES) |       χ2       | \textit{p}-value |
+|           Comparison          | <i>p</i><sub>1</sub> (PUB) | <i>p</i><sub>2</sub> (IES) |       χ2       | <i>p</i>-value |
 |:-----------------------------:|:-------:|:--------:|:--------------:|:-------:|
 | Reported Qual Analysis Method |   .914  |   .132   | χ2(1) = 335.17 | p < .05 |
 |       Complexity Level 1      |   .211  |   .014   |  χ2(1) = 56.69 | p < .05 |
 |       Complexity Level 2      |   .512  |   .085   | χ2(1) = 123.11 | p < .05 |
 |       Complexity Level 3      |   .633  |   .051   | χ2(1) = 212.89 | p < .05 |
 
-<sub> PUB = published journal article, IES = Institute of Education Sciences study </sub>|
+<sub> PUB = published journal article, IES = Institute of Education Sciences study </sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All mixed methods educational journal articles and IES funded studies reported at least one method of [quantitative analysis](https://github.com/jjeffries13/MM-SR/blob/main/QuanMethodsCharts.pdf). The studies funded by IES utilized multivariate analyses (χ2(1)= 6.47, p < .05), analyses of time and/or space (χ2(1)= 26.51, p < .05), multi-directional or multilevel models (χ2(1)= 231.81, p < .05), and multidirectional and multilevel modeling (χ2(1)= 27.53, p < .05) significantly more than non-IES funded journal articles. Journal articles implemented descriptive analyses (χ2(1)= 93.20, p < .05), univariate analyses (χ2(1)= 131.30, p < .05), and measurement techniques (χ2(1)= 4.93, p < .05) significantly more than IES funded studies. The proportion of documents that used complexity level 4 , analysis of group membership, was not significantly different among IES and non-IES funded research.
 
-|           Comparison          | \textit{p}_{1} (PUB) | \textit{p}_{2} (IES) |       χ2        |  \textit{p}-value |
+|           Comparison          | <i>p</i><sub>1</sub> (PUB) | <i>p</i><sub>2</sub> (IES) |       χ2        |  <i>p</i>-value |
 |:-----------------------------:|:-------:|:--------:|:---------------:|:--------:|
 | Reported Quan Analysis Method |   1.0   |    1.0   |   χ2(1) = NaN   |    NA    |
 |       Complexity Level 1      |   .602  |   .200   |  χ2(1) = 93.202 |  p < .05 |
