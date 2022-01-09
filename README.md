@@ -95,3 +95,5 @@ Powell, H., Mihalas, S., Onwuegbuzie, A. J., Suldo, S., & Daley, C. E. (2008). M
 Ross, A., & Onwuegbuzie, A. J. (2014). Complexity of quantitative analyses used in mixed research articles published in a flagship mathematics education journal. International Journal of Multiple Research Approaches, 8(1), 3997-4030. https://doi:10.5172/mra.2014.3997
 
 VERBI Software. (2019). MAXQDA 2020 [computer software]. Berlin, Germany: VERBI Software. Available from maxqda.com.
+
+<img align="right" width="100" height="100" src="https://github.com/jjeffries13/MM-SR/blob/main/Images/UNL-Name-blk.jpeg?raw=true">
