@@ -96,4 +96,4 @@ Ross, A., & Onwuegbuzie, A. J. (2014). Complexity of quantitative analyses used 
 
 VERBI Software. (2019). MAXQDA 2020 [computer software]. Berlin, Germany: VERBI Software. Available from maxqda.com.
 
-<img height="40" src="https://github.com/jjeffries13/MM-SR/blob/main/Images/UNL-Name-blk.jpeg?raw=true" alt = "University of Nebraska-Lincoln logo" class="center">
+<img src="https://github.com/jjeffries13/MM-SR/blob/main/Images/UNL-Name-blk.jpeg?raw=true" alt = "University of Nebraska-Lincoln logo" class="center" height="40" >
