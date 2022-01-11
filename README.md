@@ -1,7 +1,5 @@
 ## A Systematic Mixed Methodological Review of the Quantitative and Qualitative Methods Used in Mixed-Methods Published Research and IES Funded K – 12 Educational Statistical Analysis
-### *The Society for Research on Educational Effectiveness* (SREE) 
-#### [In-The-Pipeline Research Methods Presentation](https://github.com/jjeffries13/MM-SR/blob/main/MMSRePoster_9-23.pdf)
-#### Authors Karen Alexander and Jay Jeffries <img align="right" width="100" height="100" src="https://github.com/jjeffries13/MM-SR/blob/main/Images/Screen%20Shot%202021-10-19%20at%2010.20.44%20AM.png?raw=true">
+#### Authors Karen Alexander and Jay Jeffries <img align="right" width="100" height="100" src="https://github.com/jjeffries13/MM-SR/blob/main/Images/Screen%20Shot%202021-10-19%20at%2010.20.44%20AM.png?raw=true"> <img align="right" width="160" height="100" src="https://ucomm.unl.edu/images/brand-book/secondary-logos/buros.jpg"> 
 <sub> ***Buros Center for Testing and University of Nebraska-Lincoln*** </sub> 
 
 ### Overview
@@ -95,8 +93,3 @@ Powell, H., Mihalas, S., Onwuegbuzie, A. J., Suldo, S., & Daley, C. E. (2008). M
 Ross, A., & Onwuegbuzie, A. J. (2014). Complexity of quantitative analyses used in mixed research articles published in a flagship mathematics education journal. International Journal of Multiple Research Approaches, 8(1), 3997-4030. https://doi:10.5172/mra.2014.3997
 
 VERBI Software. (2019). MAXQDA 2020 [computer software]. Berlin, Germany: VERBI Software. Available from maxqda.com.
-
-
-<p align="center">
-  <img height="16" src="https://github.com/jjeffries13/MM-SR/blob/main/Images/UNL-Name-blk.jpeg?raw=true" />
-</p>
